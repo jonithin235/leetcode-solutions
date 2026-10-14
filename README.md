@@ -3,7 +3,7 @@
 **Name:** Sinchana Bhat P  
 **Roll Number:** R25EJ143  
 **LeetCode Profile:** https://leetcode.com/u/bwE4uW8wMa/  
-**Course:** Portfolio Building — 3rd Semester, CSE/CSIT/ISE  
+**Course:** Portfolio Building — 3rd Semester, CSIT
 **Activity:** Activity 6 — LeetCode Practice & Portfolio Integration  
 **Language:** C
 
